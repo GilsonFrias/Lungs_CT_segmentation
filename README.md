@@ -1,5 +1,5 @@
 Python script for the segmentation of lungs from CT images. Rather than using a deep learning
-approach, simple thresholding is used. Data set retrieved from this [Kaggle Challenge](https://www.kaggle.com/kmader/finding-lungs-in-ct-data/home)
+approach, simple thresholding is used. Data set retrieved from this [Kaggle Challenge](https://www.kaggle.com/kmader/finding-lungs-in-ct-data)
 
 Dependencies used:
 - Numpy
