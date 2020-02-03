@@ -7,4 +7,4 @@ Dependencies used:
 - Matplotlib
 - Skimage
 
-This is a work in progress, only onw image has been studied at the time. Any comments or suggestions are more than wellcome. 
+This is a work in progress, only one image has been studied at the time. Any comments or suggestions are more than wellcome. 
